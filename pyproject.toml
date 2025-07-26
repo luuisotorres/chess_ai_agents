@@ -1,0 +1,12 @@
+[project]
+name = "chess-ai-agents"
+version = "0.1.0"
+description = "A chess face-off between AI Agents using AutoGen. Visualize every move and watch AI vs AI, turn by turn."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autogen>=0.9.7",
+    "openai>=1.97.1",
+    "python-chess>=1.999",
+    "streamlit>=1.47.1",
+]
