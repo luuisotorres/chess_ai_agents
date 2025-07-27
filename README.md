@@ -1,5 +1,7 @@
 # ♟️ Chess AI Agents
 
+[![Run on Render](https://img.shields.io/badge/Run%20on-Render-2f3241?logo=render&logoColor=green&style=for-the-badge)](https://chess-ai-agents.onrender.com)
+
 <div align = "center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
